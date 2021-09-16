@@ -1,0 +1,8 @@
+*.class
+.idea
+target/
+project/target/
+project/project/target/
+.bsp/
+
+deploy.sh
